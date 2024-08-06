@@ -1,0 +1,12 @@
+Here are the answers to your the multiple choice questions:
+1.	B. whoami 
+2.	G. man 
+3.	J. File permissions 
+4.	b. ls 
+5.	d. Current directory 
+6.	d. changes to /a/b directory  
+7.	a. git add 
+8.	d. Repository metadata and version history 
+9.	c. The currently checked-out commit 
+10.	a. Copy file1 to file2 
+11.	d. lists the contents of a directory 
